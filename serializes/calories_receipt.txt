@@ -1,0 +1,40 @@
+Calories Receipt
+-----------------
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 1: 12 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 2: 32 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 3: 234 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 4: 432 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 5: 3 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 6: 4 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 7: 23 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 8: 43 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 9: 234 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 10: 45 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 11: 34 calories
+Time: Thu Aug 29 19:55:56 2024
+
+Entry 12: 43 calories
+-----------------
+Total: 1139 calories

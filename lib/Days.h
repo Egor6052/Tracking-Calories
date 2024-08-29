@@ -20,6 +20,8 @@ public:
     int getSize();
     void setCalories();
     double getAllCalories() const;
+
+    void serialize(const std::string& filename) const;
 };
 
 #endif
